@@ -5,7 +5,7 @@
 #include <assert.h>
 
 #include "genarray.h"
-
+//a
 static void GenericArray_ensureCapacity(GenericArray *array, int new_size)
 {
     if (array->capacity < new_size) {
